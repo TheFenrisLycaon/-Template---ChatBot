@@ -9,13 +9,13 @@ import random
 
 
 # importing training data
-training_data = pd.read_csv("data/train/data.csv")
+training_data = pd.read_csv("data/data.csv")
 
 # loading model
 EduChat = load_model("EduChat")
 
 # importing responses
-responses = json.load(open("data/assests/responses.json", "r"))
+responses = json.load(open("data/responses.json", "r"))
 
 
 # fitting TfIdfVectorizer with training data to preprocess inputs

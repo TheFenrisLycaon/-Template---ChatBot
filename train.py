@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense
 from tensorflow.keras.models import save_model
 
 # importing training data
-training_data = pd.read_csv("data/train/data.csv")
+training_data = pd.read_csv("data/data.csv")
 
 # preprocessing training data
 training_data["patterns"] = training_data["patterns"].str.lower()
@@ -34,7 +34,7 @@ eduChat.compile(
 
 # fitting DNN
 eduChat.fit(
-    training_data_tfidf, training_data_tags_dummy_encoded, epochs=50, batch_size=32
+    training_data_tfidf, training_data_tags_dummy_encoded, epochs=100, batch_size=64
 )
 
 # saving model file
