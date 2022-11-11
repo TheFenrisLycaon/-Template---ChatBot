@@ -1,0 +1,105 @@
+{
+    "intro": [
+        "I am EduChat - AI chat bot developed to address your queries regarding Chandigarh University designed by Rishabh Anand"
+    ],
+    "greeting": [
+        "Hello! How can I help you?",
+        "Hi! Ask me anything.",
+        "Hi! I'm ready to answer all your questions."
+    ],
+    "engineering admission": [
+        "Admission to the B.Tech / 5-year Integrated M.Tech programs will be conducted under two streams.\n(1) Stream 1 (based on JEE(Main) 2021 scores and +2 Marks) for 70% of seats.\n(2) Stream 2 (based on +2 marks) for 30% of seats.\nPlease visit https://www.cuchd.in/admissions/ for more info."
+    ],
+    "PG  admission": [
+        "For all PG programmes,\nadmissions will be made on the basis of the scores in the qualifying UG / PG degree programme.\nGATE qualified candidates will be given preference for Engineering programmes.\nFor MBA, students with good CAT / XAT / AIMAT / CMAT / AIMCAT scores will be given preference.\nPlease visit https://www.cuchd.in/admissions/ for more info."
+    ],
+    "law admission": [
+        "For all degree programmes in Law,\nadmissions will be based on the CLAT 2021 Scores and +2 aggregate taken in the ratio of 25% : 75% respectively.\nPlease visit https://www.cuchd.in/admissions/ for more info."
+    ],
+    "other admissions": [
+        "For degree programmes in Sciences, Arts, Commerce, Education, etc.,\nadmissions will be based on the qualifying exam marks.\nPlease visit https://www.cuchd.in/admissions/ for more info."
+    ],
+    "nri admission": [
+        "As per the Government norms, provision is made for NRI admissions.\nInterested students may kindly contact the Office of admissions as per details given on website.\nPlease visit https://www.cuchd.in/admissions/ for more info."
+    ],
+    "courses offered": [
+        "B.Tech., 5-Year integrated M.Tech., M.Tech., M.Sc. (2-year programmes in Biotechnology, Chemistry, Data Sciences, Molecular Genetics, Bio-Informatics & Physics),\nM.C.A., M.B.A., B.Com. (CA), B. Com. (BFSI), B.A./B.Com./B.B.A., LL.B, (Hons.) ,\nB.Sc./B.A., B.Ed. (4-year integrated programmes in English, Mathematics & Physics),\nM.Sc. (5-year integrated programmes in Biotechnology, Chemistry, Data Sciences & Physics),\nM. Optom & B. Optom.\n\n\nB. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology),\nM.Com. and B. Tech. (CSE & ECE).\nPlease visit https://www.cuchd.in/academics/ for more info."
+    ],
+    "contact details": [
+        "CONTACT-FOR GENERAL QUERIES :\n\nChandigarh UNIVERSITY,\nMohali,\nPunjab - 140413,\nIndia.\n\nCONTACT-FOR ADMISSION RELATED QUERIES :\n\nhttps://www.cuchd.in/contact/"
+    ],
+    "end conversation": [
+        "Glad to help you!",
+        "Thanks for approaching us regarding queries!",
+        "Wish you a fruitful journey ahead!"
+    ],
+    "about Chandigarh": [
+        "To know about Chandigarh University: https://www.cuchd.in/about/\nAccredition & Ranking of Chandigarh : https://www.cuchd.in/about-us/accreditation-ranking.html"
+    ],
+    "fee structure": [
+        "For detailed info regarding fee structure of different courses,\nPlease visit https://www.cuchd.in/admissions/course-fee.php"
+    ],
+    "hostel availability": [
+        "Hostel facilities are available for both boys and girls separately.\nPlease visit https://www.cuchd.in/student-services/hostel-facility.php to know more info about hostels in Chandigarh University"
+    ],
+    "student web interface": [
+        "Please visit https://uims.cuchd.in/ to access Student web interface."
+    ],
+    "gym facility": [
+        "gyms are available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "badminton facility": [
+        "shuttle courts are available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "football facility": [
+        "Football ground is available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "cricket facility": [
+        "Cricket ground is available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "ball badminton facility": [
+        "No provision is made for ball badminton currently.\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "athletics facility": [
+        "There is space available for athletics in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "tennis facility": [
+        "Tennis courts are available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "archery facility": [
+        "Currently there is no provision for archery.\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "swimming facility": [
+        "Currently there is no facility available for swimming.\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "basketball facility": [
+        "Basketball courts are available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "billiards facility": [
+        "Facilities for playing billiards is available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "table tennis facility": [
+        "Table tennis is available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "carrom facility": [
+        "Carrom is available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "sports facility": [
+        "There are football ground, Cricket ground, Basketball courts, Tennis courts and\nMARUTI INDOOR STADIUM for indoor games available in Chandigarh University\nPlease visit https://www.cuchd.in/student-services/sports.php to check different sports facilities available."
+    ],
+    "library facility": [
+        "Central library of the university contains lot of books with modern facilities."
+    ],
+    "research facility": [
+        "Chandigarh University provides best lab and research facilities for academic and research purposes.\nPlease visit https://www.cuchd.in/research/ to check the facilities available"
+    ],
+    "wifi facility": [
+        "Chandigarh provides high speed internet connectivity to registered devices inside campus."
+    ],
+    "events": [
+        "There are a lot of events in Chandigarh University.\n Please Visit https://www.cuchd.in/campus-life/cultural.php"
+    ],
+    "technical events": [
+        "Please visit https://www.cuchd.in/campus-life/tech-invent.php to know more."
+    ]
+}
