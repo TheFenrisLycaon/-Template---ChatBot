@@ -3,7 +3,7 @@
 ## FILE DESCRIPTION
 
 * The project folder "project EduChat" contains the following files,
-* EduChat.rar - compressed model files (extract it and place it as child folder to the project folder).
+* EduChat - compressed model files (extract it and place it as child folder to the project folder).
 * train.py - Python script by which the network was trained and saved.
 * main.py - Python script which runs the Chatbot.
 * data/train/data.csv - csv file on which the network was trained.
