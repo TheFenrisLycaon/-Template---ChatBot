@@ -38,4 +38,4 @@ eduChat.fit(
 )
 
 # saving model file
-save_model(eduChat, "EduChat")
+save_model(eduChat, "chatbot")

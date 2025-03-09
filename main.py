@@ -12,7 +12,7 @@ import random
 training_data = pd.read_csv("data/data.csv")
 
 # loading model
-EduChat = load_model("EduChat")
+chatbot = load_model("chatbot")
 
 # importing responses
 responses = json.load(open("data/responses.json", "r"))
@@ -32,7 +32,7 @@ le.fit(training_data["tags"])
 # preprocessing input
 def predict_tag(inp_str):
     inp_data_tfidf = vectorizer.transform([inp_str.lower()]).toarray()
-    predicted_proba = EduChat.predict(inp_data_tfidf)
+    predicted_proba = chatbot.predict(inp_data_tfidf)
     encoded_label = [np.argmax(predicted_proba)]
     predicted_tag = le.inverse_transform(encoded_label)[0]
     return predicted_tag
@@ -40,7 +40,7 @@ def predict_tag(inp_str):
 
 # chat function
 def start_chat():
-    print("---------------  EduChat - AI Chat bot  ---------------")
+    print("---------------  chatbot - AI Chat bot  ---------------")
     print("Ask any queries regarding Chandigarh University..")
     print("I will try to understand you and reply...")
     print("Type EXIT to quit...")
