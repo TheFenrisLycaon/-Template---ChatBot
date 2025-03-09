@@ -1,9 +1,8 @@
-# AI Chat bot using intent matching
+# AI Chat bot Template
 
 ## FILE DESCRIPTION
 
-* The project folder "project EduChat" contains the following files,
-* EduChat - compressed model files (extract it and place it as child folder to the project folder).
+* model - compressed model files (extract it and place it as child folder to the project folder).
 * train.py - Python script by which the network was trained and saved.
 * main.py - Python script which runs the Chatbot.
 * data/train/data.csv - csv file on which the network was trained.
@@ -33,9 +32,9 @@ loss function.
 
 ## FUNCTIONING OF CHATBOT
 
-* Csv file containing training data was loaded into EduChat_main.py sript.
+* Csv file containing training data was loaded into chatbot_main.py sript.
 * Responses for each intent was created and stored as JSON file which was loaded into
-EduChat_main.py script as responses dictionary.
+chatbot_main.py script as responses dictionary.
 * Every words in each question from csv data was turned to lower case.
 * Tf-Idf Vectorizer for both monograms and bigrams was fit to the data.
 * Label encoder object was fit to the intents.
